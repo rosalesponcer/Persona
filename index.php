@@ -1,14 +1,26 @@
-<?php include("includes/header.php") ?>
 <?php include("bd.php") ?>
+<?php include("includes/header.php") ?>
+
 
 
 
 <div class="container-fluid p-4">
     <div class="row">
         <div class="col-md-4 position-sticky">
+            <?php if (isset($_SESSION['mensaje'])) { ?>
+                <div class="alert alert-<?= $_SESSION['mensaje_tipo'] ?> alert-dismissible fade show" role="alert">
+                    <?= $_SESSION['mensaje'] ?>
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            <?php session_unset();
+            } ?>
+
+
 
             <div class="card card-body">
-                <form action="guardar.php" method="GET">
+                <form action="guardar.php" method="POST">
                     <div class="form-group">
                         <input type="text" name="txtNombre" class="form-control" placeholder="Nombre" autofocus>
                     </div>
