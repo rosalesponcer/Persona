@@ -6,9 +6,9 @@ if (isset($_POST['ingresar'])) {
     $fecha = isset($_POST['txtFecha']) ? $_POST['txtFecha'] : null;
 
     $query = "INSERT INTO persona(Nombre,DNI,FechaNacimiento) VALUES('$nombre','$dni','$fecha')";
-    $result=mysqli_query($con, $query);
+    $result = mysqli_query($con, $query);
     if ($result) {
-        $_SESSION['mensaje'] = "New record created successfully";
+        $_SESSION['mensaje'] = "Nuevo registro creado con éxito";
         $_SESSION['mensaje_tipo'] = "success";
     } else {
         $_SESSION['mensaje'] = mysqli_error($con);

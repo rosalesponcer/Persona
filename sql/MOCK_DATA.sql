@@ -1,100 +1,101 @@
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Astrix Oldroyde', '20493734', '2019-07-28');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Jolee Pridden', '51510237', '2020-04-11');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Loralee Stallworth', '97881422', '2019-06-27');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Mike Drysdall', '34969633', '2020-03-02');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Laurent Shyres', '97956931', '2020-03-14');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Anissa Rowlin', '39993604', '2019-11-15');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Liv Bohlens', '33915413', '2020-01-29');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Annissa Ordemann', '17875928', '2020-05-07');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Costa Bushe', '47488858', '2019-12-22');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Noelyn St Leger', '06985405', '2019-12-08');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Shari Shakspeare', '87975602', '2020-03-18');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Anatol Stringman', '58483120', '2019-06-30');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Tonie Gierck', '38095908', '2019-06-29');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Celeste Stienham', '67261721', '2019-12-26');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Grier Lardeur', '87868702', '2019-07-04');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Emelita Coners', '48319084', '2020-01-12');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Freddie Besse', '39171293', '2020-04-09');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Jillie Haker', '34356695', '2019-11-21');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Vittorio Raigatt', '73379750', '2019-06-14');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Rosette Schmidt', '18473791', '2019-08-06');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Gery Biasi', '07871753', '2019-06-26');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Rosaline Benjamin', '76328205', '2020-03-27');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Marcellina Bechley', '99908980', '2019-07-05');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Roch Besque', '29816217', '2020-05-29');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Torrence Burchfield', '45562595', '2019-06-28');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Ilka Gomersall', '18821541', '2019-09-16');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Dorolice Rivitt', '99377764', '2019-10-02');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Eugene Gregoriou', '75285577', '2019-09-20');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Francine Lambourn', '06902214', '2019-06-28');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Rudie Matteo', '78926798', '2019-11-04');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Kristian McFee', '74176126', '2020-03-10');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Findlay Andryunin', '69736039', '2019-09-08');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Cora Yeskin', '20317675', '2019-07-24');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Sibel Staynes', '82648976', '2019-06-10');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Annemarie Vernon', '19111452', '2020-01-21');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Tammi Tellenbrok', '39942438', '2019-09-05');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Maurene Pavek', '06559302', '2019-11-04');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Marylee Harder', '32630108', '2019-07-02');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Jane Laddle', '11368117', '2019-12-03');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Bab Stanislaw', '00119033', '2019-12-23');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Tobit Donohoe', '78708556', '2019-09-10');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Karlik Gladden', '82282897', '2020-01-31');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Simonne Eykelbosch', '81756468', '2020-05-18');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Fionna Berzon', '26852464', '2020-04-12');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Sonja Inskipp', '48891042', '2019-09-22');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Cindy Carvill', '30187606', '2019-09-19');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Wendall Benzies', '02435267', '2019-07-19');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Pooh Pickavant', '55261203', '2019-11-29');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Hannah Norfolk', '63864080', '2019-10-06');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Cherianne Maffioletti', '81039158', '2019-12-21');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Ibbie Rikard', '24318337', '2020-04-17');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Lea Seilmann', '29309832', '2019-11-02');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Rafaelita Syred', '98328232', '2020-02-06');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Brenden Asman', '56561517', '2019-07-05');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Celestina Donnersberg', '44590989', '2019-06-28');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Abigael Bartunek', '63121343', '2019-11-18');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Lewie Dionsetto', '46596989', '2020-03-15');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Mildrid Gibby', '75167741', '2019-11-20');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Roma Rizzone', '25885253', '2020-01-03');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Margaretha Gawkes', '26282695', '2019-11-22');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Christalle Rennolds', '80787684', '2019-09-09');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Barr Shoebottom', '49182083', '2019-10-21');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Inger Weatherall', '28777347', '2020-03-21');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Felice Kiehl', '70152963', '2020-01-18');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Early Libreros', '65985110', '2019-10-16');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Yetty Crab', '49886476', '2020-01-13');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Claudelle Poplee', '51721391', '2019-09-25');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Nikki Mateja', '01754318', '2019-09-12');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Kendre Pond', '71523102', '2019-09-26');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Zandra Watkiss', '73975917', '2019-07-18');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Cyndi Inkle', '94178990', '2019-07-03');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Skell Curm', '45333200', '2019-09-11');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Torie Clemett', '07851563', '2019-12-04');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Nobe Ray', '76569737', '2019-12-26');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Zeb Paszak', '64318414', '2020-05-24');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Gayler Huckleby', '54874292', '2020-04-03');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Halsy Goard', '38518097', '2019-12-07');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Uriah Pickin', '02333202', '2020-01-11');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Chester Matityahu', '00280775', '2019-07-23');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Ward Penn', '04716220', '2019-07-08');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Myrta Artist', '30227574', '2020-01-04');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Kaiser Fairham', '88497666', '2019-11-26');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Garek Bassindale', '20861835', '2019-09-15');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Marnie Munkley', '32466532', '2020-05-06');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Mariellen Vinnicombe', '47815939', '2019-11-20');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Mathe Pain', '28302224', '2020-04-06');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Cloris Scottesmoor', '33828538', '2019-06-25');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Vinny Cordobes', '39136572', '2019-07-20');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Bendite Teasdale-Markie', '52954941', '2019-09-12');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Kit Antonin', '72988147', '2020-04-18');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Gayle Guys', '74569651', '2019-09-11');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Alec Innot', '03348400', '2020-02-04');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Kevina Duiguid', '09579530', '2019-10-19');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Wynnie Jemmison', '76065277', '2020-04-25');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Kelsi Legion', '15532531', '2019-07-03');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Helga Aggas', '09622722', '2020-05-11');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Lauren Schild', '86752872', '2019-09-22');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Chrystel Ruslen', '78704522', '2020-05-11');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Osmund Gutowski', '03686301', '2019-12-12');
-insert into persona (Nombre, DNI, FechaNacimiento) values ('Cathrine Mitham', '76349324', '2020-03-16');
+insert into persona (Nombre, DNI, FechaNacimiento)
+values ('Astrix Oldroyde', '20493734', '2019-07-28'),
+    ('Jolee Pridden', '51510237', '2020-04-11'),
+    ('Loralee Stallworth', '97881422', '2019-06-27'),
+    ('Mike Drysdall', '34969633', '2020-03-02'),
+    ('Laurent Shyres', '97956931', '2020-03-14'),
+    ('Anissa Rowlin', '39993604', '2019-11-15'),
+    ('Liv Bohlens', '33915413', '2020-01-29'),
+    ('Annissa Ordemann', '17875928', '2020-05-07'),
+    ('Costa Bushe', '47488858', '2019-12-22'),
+    ('Noelyn St Leger', '06985405', '2019-12-08'),
+    ('Shari Shakspeare', '87975602', '2020-03-18'),
+    ('Anatol Stringman', '58483120', '2019-06-30'),
+    ('Tonie Gierck', '38095908', '2019-06-29'),
+    ('Celeste Stienham', '67261721', '2019-12-26'),
+    ('Grier Lardeur', '87868702', '2019-07-04'),
+    ('Emelita Coners', '48319084', '2020-01-12'),
+    ('Freddie Besse', '39171293', '2020-04-09'),
+    ('Jillie Haker', '34356695', '2019-11-21'),
+    ('Vittorio Raigatt', '73379750', '2019-06-14'),
+    ('Rosette Schmidt', '18473791', '2019-08-06'),
+    ('Gery Biasi', '07871753', '2019-06-26'),
+    ('Rosaline Benjamin', '76328205', '2020-03-27'),
+    ('Marcellina Bechley', '99908980', '2019-07-05'),
+    ('Roch Besque', '29816217', '2020-05-29'),
+    ('Torrence Burchfield', '45562595', '2019-06-28'),
+    ('Ilka Gomersall', '18821541', '2019-09-16'),
+    ('Dorolice Rivitt', '99377764', '2019-10-02'),
+    ('Eugene Gregoriou', '75285577', '2019-09-20'),
+    ('Francine Lambourn', '06902214', '2019-06-28'),
+    ('Rudie Matteo', '78926798', '2019-11-04'),
+    ('Kristian McFee', '74176126', '2020-03-10'),
+    ('Findlay Andryunin', '69736039', '2019-09-08'),
+    ('Cora Yeskin', '20317675', '2019-07-24'),
+    ('Sibel Staynes', '82648976', '2019-06-10'),
+    ('Annemarie Vernon', '19111452', '2020-01-21'),
+    ('Tammi Tellenbrok', '39942438', '2019-09-05'),
+    ('Maurene Pavek', '06559302', '2019-11-04'),
+    ('Marylee Harder', '32630108', '2019-07-02'),
+    ('Jane Laddle', '11368117', '2019-12-03'),
+    ('Bab Stanislaw', '00119033', '2019-12-23'),
+    ('Tobit Donohoe', '78708556', '2019-09-10'),
+    ('Karlik Gladden', '82282897', '2020-01-31'),
+    ('Simonne Eykelbosch', '81756468', '2020-05-18'),
+    ('Fionna Berzon', '26852464', '2020-04-12'),
+    ('Sonja Inskipp', '48891042', '2019-09-22'),
+    ('Cindy Carvill', '30187606', '2019-09-19'),
+    ('Wendall Benzies', '02435267', '2019-07-19'),
+    ('Pooh Pickavant', '55261203', '2019-11-29'),
+    ('Hannah Norfolk', '63864080', '2019-10-06'),
+    ('Cherianne Maffioletti','81039158','2019-12-21'),
+    ('Ibbie Rikard', '24318337', '2020-04-17'),
+    ('Lea Seilmann', '29309832', '2019-11-02'),
+    ('Rafaelita Syred', '98328232', '2020-02-06'),
+    ('Brenden Asman', '56561517', '2019-07-05'),
+    ('Celestina Donnersberg','44590989','2019-06-28'),
+    ('Abigael Bartunek', '63121343', '2019-11-18'),
+    ('Lewie Dionsetto', '46596989', '2020-03-15'),
+    ('Mildrid Gibby', '75167741', '2019-11-20'),
+    ('Roma Rizzone', '25885253', '2020-01-03'),
+    ('Margaretha Gawkes', '26282695', '2019-11-22'),
+    ('Christalle Rennolds', '80787684', '2019-09-09'),
+    ('Barr Shoebottom', '49182083', '2019-10-21'),
+    ('Inger Weatherall', '28777347', '2020-03-21'),
+    ('Felice Kiehl', '70152963', '2020-01-18'),
+    ('Early Libreros', '65985110', '2019-10-16'),
+    ('Yetty Crab', '49886476', '2020-01-13'),
+    ('Claudelle Poplee', '51721391', '2019-09-25'),
+    ('Nikki Mateja', '01754318', '2019-09-12'),
+    ('Kendre Pond', '71523102', '2019-09-26'),
+    ('Zandra Watkiss', '73975917', '2019-07-18'),
+    ('Cyndi Inkle', '94178990', '2019-07-03'),
+    ('Skell Curm', '45333200', '2019-09-11'),
+    ('Torie Clemett', '07851563', '2019-12-04'),
+    ('Nobe Ray', '76569737', '2019-12-26'),
+    ('Zeb Paszak', '64318414', '2020-05-24'),
+    ('Gayler Huckleby', '54874292', '2020-04-03'),
+    ('Halsy Goard', '38518097', '2019-12-07'),
+    ('Uriah Pickin', '02333202', '2020-01-11'),
+    ('Chester Matityahu', '00280775', '2019-07-23'),
+    ('Ward Penn', '04716220', '2019-07-08'),
+    ('Myrta Artist', '30227574', '2020-01-04'),
+    ('Kaiser Fairham', '88497666', '2019-11-26'),
+    ('Garek Bassindale', '20861835', '2019-09-15'),
+    ('Marnie Munkley', '32466532', '2020-05-06'),
+    ('Mariellen Vinnicombe', '47815939', '2019-11-20'),
+    ('Mathe Pain', '28302224', '2020-04-06'),
+    ('Cloris Scottesmoor', '33828538', '2019-06-25'),
+    ('Vinny Cordobes', '39136572', '2019-07-20'),
+    ('Bendite Teasdale-Markie','52954941','2019-09-12'),
+    ('Kit Antonin', '72988147', '2020-04-18'),
+    ('Gayle Guys', '74569651', '2019-09-11'),
+    ('Alec Innot', '03348400', '2020-02-04'),
+    ('Kevina Duiguid', '09579530', '2019-10-19'),
+    ('Wynnie Jemmison', '76065277', '2020-04-25'),
+    ('Kelsi Legion', '15532531', '2019-07-03'),
+    ('Helga Aggas', '09622722', '2020-05-11'),
+    ('Lauren Schild', '86752872', '2019-09-22'),
+    ('Chrystel Ruslen', '78704522', '2020-05-11'),
+    ('Osmund Gutowski', '03686301', '2019-12-12'),
+    ('Cathrine Mitham', '76349324', '2020-03-16');
