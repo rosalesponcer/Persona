@@ -1,5 +1,6 @@
 <?php
 include("bd.php");
+//Recepcion de datos de index.php por metodo get en la accion editar
 if (!empty($_GET)) {
     $id = $_GET['id'];
     $query = "SELECT * FROM persona WHERE id=$id";
@@ -12,6 +13,7 @@ if (!empty($_GET)) {
         $fecha = $row['FechaNacimiento'];
     }
 }
+//Recepcion de datos del formulario de esta pagina para modificar en la base datos
 if (!empty($_POST)) {
     $nombre = isset($_POST['txtNombre']) ? $_POST['txtNombre'] : null;
     $dni = isset($_POST['txtNombre']) ? $_POST['txtDni'] : null;

@@ -1,6 +1,6 @@
 <?php
 include("bd.php");
-
+//Recepcion de datos de la opcion eliminar en index.php
 if (isset($_GET['id'])) {
     $id = $_GET['id'];
     $query = "DELETE FROM persona WHERE id='$id'";

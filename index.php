@@ -4,7 +4,7 @@
 <div class="container-fluid p-4">
     <div class="row">
         <div class="col-md-4">
-
+            <!--ALERT QUE RECIBE PARAMETROS DE DE UNA SESIÓN EXISTENTE-->
             <div class="col-md-4  position-fixed">
                 <?php if (isset($_SESSION['mensaje'])) { ?>
                     <div class="alert alert-<?= $_SESSION['mensaje_tipo'] ?> alert-dismissible fade show" role="alert">
@@ -15,6 +15,7 @@
                     </div>
                 <?php session_unset();
                 } ?>
+                <!--FORMULARIO INSERTAR-->
                 <div class="card card-body">
                     <form action="guardar.php" method="POST">
                         <div class="form-group">
@@ -32,6 +33,7 @@
             </div>
 
         </div>
+        <!---->
         <div class="col-md-8  col-12">
             <table class="table table-hover text-center">
                 <thead>

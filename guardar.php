@@ -1,5 +1,6 @@
 <?php
 include("bd.php");
+//Recepcion de datos del formulario insertar en index.php
 if (isset($_POST['ingresar'])) {
     $nombre = isset($_POST['txtNombre']) ? $_POST['txtNombre'] : null;
     $dni = isset($_POST['txtDni']) ? $_POST['txtDni'] : null;

@@ -1,3 +1,4 @@
+<!--plantilla reutilizable para la cabecera-->
 <!DOCTYPE html>
 <html lang="es">
 
