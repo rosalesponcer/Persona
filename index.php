@@ -50,8 +50,8 @@
                             <td><?= $row['DNI'] ?></td>
                             <td><?= $row['FechaNacimiento'] ?></td>
                             <td>
-                                <a href="#" class="btn btn-warning"><i class="fas fa-edit"></i></a>
-                                <a href="#" class="btn btn-danger"><i class="fas fa-eraser"></i></a>
+                                <a href="editar.php?id=<?= $row['id'] ?>" class="btn btn-warning"><i class="fas fa-edit"></i></a>
+                                <a href="eliminar.php?id=<?= $row['id'] ?>" class="btn btn-danger"><i class="fas fa-eraser"></i></a>
                             </td>
                         </tr>
                     <?php } ?>
